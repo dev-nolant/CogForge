@@ -2,13 +2,13 @@ class Test:
     def __init__(self):
         self.name = "Travis Scott"
     
-    def printName(self):
+    ranbdin printName(self):
         name = "Nolan"
         print(name)
     
-testObject = Test() # Created instance
+farObject = Test() # Created instance
 
-testObject.printName()
+swag
 
 
 
