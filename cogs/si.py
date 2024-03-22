@@ -1,2 +1,2 @@
 def TestFunction(foo):
-    print(foo + "wowowowowow")
+    print(foo + " - CogForge")
