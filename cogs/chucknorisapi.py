@@ -13,7 +13,7 @@ headers = {
     'X-RapidAPI-Host' : 'matchilling-chuck-norris-jokes-v1.p.rapidapi.com'
 }
 
-response = requests.get(url, headers=headers)
+response = requests.get(url, headers=headers, timeout=60)
 
 if response.status_code == 200:
     #print(response.json())
